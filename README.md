@@ -1,5 +1,4 @@
 # 캡스톤디자인 작품 개발계획서
-<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/be95d8f8-f274-44d2-a4c3-bca6bbb24238" />
 
 ## 1. 작품 개요
 
